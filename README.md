@@ -82,3 +82,5 @@ This dataset provides insights into the usage patterns of YULU bike sharing serv
 ### Short Forms
  - Short Analysis : SA
  ****
+
+ ![Yulu Vechicle](https://imgk.timesnownews.com/story/1557482863-Yulu_e-bike.jpeg?tr=w-1000,h-650,fo-auto)
